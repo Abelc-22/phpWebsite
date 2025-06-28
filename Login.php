@@ -16,6 +16,7 @@
     echo "This is the login box! <br>"
     ?>
     <a href="Login.php"><button>login</button></a>
+    <a href="CreateAccount.php"><button>Sign Up</button></a>
 
     <form action="SuccessfulLogin.php" method="GET">
         Name: <input type="text" name="name"><br>
